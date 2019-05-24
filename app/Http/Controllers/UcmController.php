@@ -47,7 +47,7 @@ class UcmController extends Controller
      */
     public function edit(Ucm $ucm)
     {
-        return view('ucm.edit');
+        return view('ucm.edit', compact('ucm'));
     }
 
     /**

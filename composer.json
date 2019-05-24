@@ -13,6 +13,7 @@
         "laravel-frontend-presets/material-dashboard": "^1.0",
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
+        "laravelcollective/html": "^5.8.0",
         "predis/predis": "^1.1",
         "shipping-docker/vessel": "^4.0",
         "spatie/laravel-sluggable": "^2.1"
